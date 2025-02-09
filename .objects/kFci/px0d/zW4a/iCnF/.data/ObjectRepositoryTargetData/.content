@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M-RbG6n6TkyQ3EqSICWJEA" Reference="BsjTkGGsykyt88wNhKwbfQ/iCnF7qXgl0-tcofCmcBGnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="f3422477-03c5-4e42-b904-d6d4c6848dbe" CvElementArea="205, 693, 307, 74" CvTextArea="306, 716, 139, 24" CvTextArgument="Work Items" CvType="Button" DesignTimeRectangle="209, 696, 300, 68" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                          Work Items' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg' check:innerText='Work Items' /&gt;" Guid="1cf407bc-9008-4278-a213-6a38f37b8d30" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f3422477-03c5-4e42-b904-d6d4c6848dbe" CvElementArea="205, 611, 306, 74" CvTextArea="297, 633, 153, 28" CvTextArgument="User options" CvType="Button" DesignTimeRectangle="209, 613, 300, 68" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' aaname='                  User options' check:innerText='User options' /&gt;" Guid="af706af7-8b9b-4fd3-aa6a-334dcc64bc27" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="00acc2a6106d6efd95a7357d8e043b97.png" xmlns="">0y4GOptsrnkWnje1s9ME7UQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Extensions - Google Chrome",
+  "Type": "Screen",
+  "Id": "1LtvM55CZEyzRzCBNwWaBQ",
+  "Reference": "BsjTkGGsykyt88wNhKwbfQ/1LtvM55CZEyzRzCBNwWaBQ",
+  "ParentRef": "BsjTkGGsykyt88wNhKwbfQ/px0dz1y7bEm1f48fmSo9og",
+  "Created": "2025-02-09T06:32:12.6732435Z",
+  "Updated": "2025-02-09T06:32:12.6732435Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

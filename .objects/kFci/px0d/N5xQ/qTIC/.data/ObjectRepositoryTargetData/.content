@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sfRdfj-lCU2OOsT94vm7UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="91771c24-32ed-421c-a05d-507b850270d1" CvElementArea="206, 712, 94, 54" CvTextArea="225, 728, 54, 24" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="209, 713, 89, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="c86fa984-ef4f-45e2-9833-a669c2c00629" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="91771c24-32ed-421c-a05d-507b850270d1" CvElementArea="206, 654, 24, 24" CvType="CheckBox" DesignTimeRectangle="209, 656, 19, 20" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl id='remember' tag='INPUT' type='checkbox' class='form-check-input' aaname='                                         Remember Me                                     ' /&gt;" Guid="86ad2a91-fa8f-4d77-a284-7066d8094753" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-4" Y="-2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="89621e2eb2b4b028c396b8b2c53203d4.png" xmlns="">0N_msCYYgCkSP6WsPFd7NhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
